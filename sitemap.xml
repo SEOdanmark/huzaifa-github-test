@@ -5,19 +5,27 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
-                 <loc>best-tree-service-in-huntsville-al-rocket-city.html</loc>
-                 <lastmod>2026-05-25T09:39:40+00:00</lastmod>
+                 <loc>index.html</loc>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2026-05-25T09:39:40+00:00</lastmod>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2026-05-25T09:39:40+00:00</lastmod>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2026-05-25T09:39:40+00:00</lastmod>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2026-08-05T12:00:53+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
